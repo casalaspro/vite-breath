@@ -3,3 +3,9 @@
 
 // I import the partials
 @use 'partials/layout';
+
+body{
+  background-image: url('../assets/landscape.jpg');
+  background-size: contain;
+  // background-color: red;
+}

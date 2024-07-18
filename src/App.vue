@@ -24,7 +24,10 @@ export default {
   <HelloWorld />
 </template>
 
-<style scoped>
+<style lang="scss">
+@use './scss/general.scss';
+
+
 .logo {
   height: 6em;
   padding: 1.5em;

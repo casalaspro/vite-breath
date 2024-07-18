@@ -167,6 +167,7 @@ export default {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-color: #d4d4d468;
   position: relative;
+  background-color: white
 }
 .my_btn-start{
   background-color: rgb(128, 255, 255);
@@ -185,6 +186,8 @@ export default {
 .blur{
   backdrop-filter: blur(10px);
 }
+
+
 
 
 </style>
