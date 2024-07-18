@@ -13,24 +13,24 @@ export default {
       interval: 1,
       stopSound: {
         name: 'Stop Gong',
-        source: './src/assets/Gong_Stop.mp3',
+        source: './public/Gong_Stop.mp3',
       },
       sounds: [
         {
           name: 'Ting',
-          source: './src/assets/Ting.mp3'
+          source: './public/Ting.mp3'
         },
         {
           name: 'Metronome',
-          source: './src/assets/Metronome.mp3'
+          source: './public/Metronome.mp3'
         },
         {
           name: 'Water Drop',
-          source: './src/assets/Drop.mp3'
+          source: './public/Drop.mp3'
         },
         {
           name: 'Gong',
-          source: './src/assets/Gong_Meditation.mp3'
+          source: './public/Gong_Meditation.mp3'
         },
       ],
         activeSound: 0,
